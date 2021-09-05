@@ -19,7 +19,7 @@ KUBERNETES, MINIKUBE, NGINX
 - https://angel.co/vibecoder
 - https://twitch.tv/vibecoder
 - https://www.youtube.com/channel/UCAB-NFeNLEQ2J_M7vLNEqpQ
-- mailto:vibecoderdev@gmail.com
+- vibecoderdev@gmail.com
 
 - 😄 Pronouns: He/him
 
