@@ -19,6 +19,7 @@ KUBERNETES, MINIKUBE, NGINX
 - https://angel.co/vibecoder
 - https://twitch.tv/vibecoder
 - https://www.youtube.com/channel/UCAB-NFeNLEQ2J_M7vLNEqpQ
+- https://ko-fi.com/vibecoder
 - vibecoderdev@gmail.com
 
 
