@@ -12,14 +12,14 @@ KUBERNETES, MINIKUBE, NGINX
 
 # - 📫 How to reach me: ...
 
-https://dev.to/vibecoder
-https://github.com/vibecoder
-https://vibecoder.dev
-https://twitter.com/vibecoder
-https://angel.co/vibecoder
-https://twitch.tv/vibecoder
-https://www.youtube.com/channel/UCAB-NFeNLEQ2J_M7vLNEqpQ
-mailto:vibecoderdev@gmail.com
+- https://dev.to/vibecoder
+- https://github.com/vibecoder
+- https://vibecoder.dev
+- https://twitter.com/vibecoder
+- https://angel.co/vibecoder
+- https://twitch.tv/vibecoder
+- https://www.youtube.com/channel/UCAB-NFeNLEQ2J_M7vLNEqpQ
+- mailto:vibecoderdev@gmail.com
 
 - 😄 Pronouns: He/him
 
