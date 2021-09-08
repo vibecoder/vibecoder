@@ -22,6 +22,7 @@ KUBERNETES, MINIKUBE, NGINX
 - https://ko-fi.com/vibecoder
 - https://www.patreon.com/vibecoder
 - vibecoderdev@gmail.com
+- https://discord.gg/FhujpH33xE
 
 
 ### ⚡ Fun fact: ...
