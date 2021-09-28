@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Hi, I am Vibhas Goyal. I love to code and create software products. I will be live-streaming open-source content.
+Hi, I am Vib. I love to code and create software products. I will be live-streaming open-source content.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
