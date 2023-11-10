@@ -1,16 +1,13 @@
 ### Hi 👋
 
-Hi, I am Vibhas. 
+Hi, I am Vibhas Goyal. 
 
-I love to code, think and create products. 
+I love to create products and solve problems.
 
-Geeky logical excited foolish obsessive multitasking coder. 
+5 years of professional tech exp in Oracle Analytics. 
 
 Graduated ES (Computer Science Major) from IIT Hyderabad 2018
 
-4 years of professional tech exp in a tech giant. Worked on migrating an analytics monolith into a full multi-tenant k8s microservice, which made me learn very deep minikube, k8s, docker and nginx!!! 
-
-I also love to read books and play games!
 
 ## 🔭 I’m currently working on ...
 
